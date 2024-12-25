@@ -1,0 +1,22 @@
+.buy {
+    padding: 10px;
+    text-align: left;
+    margin-top: -12px;
+    margin-left: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;  
+    height: 40px; 
+  }
+  
+  .buy_price {
+    margin-right: 5px;
+  }
+  
+  .buy button {
+    padding: 10px 20px;
+    font-size: 14px;  
+    display: inline-block;
+    min-width: 120px; 
+  }
+  
